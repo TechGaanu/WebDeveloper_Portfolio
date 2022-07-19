@@ -123,7 +123,7 @@ header .navbar ul li a#active {
         .home {
             min-height: 100vh;
             /* background-image: url(Images1/home-bgg.jpg); */
-            background-image: url(Images/laptop.jpg);
+            background-image: url(Images1/laptop.jpg);
             background-size: cover;
             background-position: center;
             float: left;
